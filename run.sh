@@ -3,12 +3,14 @@
 # run server if it is possible to run it with args
 
 # run myself
-python3 Game.py > log/out 2>&1 &
-pid1=$!
-python3 enemy/Game.py 2>&1 > enemy/log/out &
-pid2=$!
+#python3 enemy/Game.py
+python3 enemy/hello/Game.py
+#python3 enemy/mamad/client/Game.py
+#pid2=$!
+#python3 Game.py
+#pid1=$!
 
-echo "$pid1\n$pid2" > pids
+#echo "$pid1\n$pid2" > pids
 
-tail -f log/out
+#tail -f log/out
 

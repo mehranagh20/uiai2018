@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp.dir/ball.cpp.o CMakeFiles/cpp.dir/game.cpp.o CMakeFiles/cpp.dir/main.cpp.o CMakeFiles/cpp.dir/player.cpp.o CMakeFiles/cpp.dir/pos.cpp.o CMakeFiles/cpp.dir/strategy.cpp.o CMakeFiles/cpp.dir/team.cpp.o CMakeFiles/cpp.dir/triple.cpp.o  -o cpp 

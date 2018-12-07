@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63bb1586-486a-47bb-89ca-e89cdd775cfb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UIAI2018 Doc.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic10.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic11.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic2.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic3.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic4.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic5.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic6.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic7.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic8.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ScreenShots/pic9.PNG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScreenShots/pic1.PNG" afterPath="$PROJECT_DIR$/ScreenShots/pic1.PNG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Game.log" afterPath="$PROJECT_DIR$/Game.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Strategy.py" afterPath="$PROJECT_DIR$/Strategy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enemy/Strategy.py" afterPath="$PROJECT_DIR$/enemy/Strategy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enemy/log/out" afterPath="$PROJECT_DIR$/enemy/log/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game.com" afterPath="$PROJECT_DIR$/game.com" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/out" afterPath="$PROJECT_DIR$/log/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pids" afterPath="$PROJECT_DIR$/pids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.sh" afterPath="$PROJECT_DIR$/run.sh" />
     </list>
     <ignored path="uiai2018.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +45,7 @@
       <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="2574">
               <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
               <folding />
             </state>
@@ -42,10 +56,8 @@
         <entry file="file://$PROJECT_DIR$/Strategy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+              <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -110,7 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -131,7 +143,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,7 +169,7 @@
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26060605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -201,6 +213,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -211,7 +239,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="2574">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
           <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
           <folding />
         </state>
@@ -220,10 +280,16 @@
     <entry file="file://$PROJECT_DIR$/Strategy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
